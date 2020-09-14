@@ -1,0 +1,19 @@
+a:hover {
+  text-decoration: none;
+}
+ul {
+  color: #8892a0;
+}
+
+a {
+  color: #007bc7;
+}
+
+header .navbar-nav a.nav-link {
+  color: #555555;
+}
+
+.sep-border {
+  border-top: solid .0625rem #EEE;
+}
+ 
